@@ -1,0 +1,2 @@
+/home/jin/Q/Done/espeak_test_04_24_2017/build/CMakeFiles/et.dir
+/home/jin/Q/Done/espeak_test_04_24_2017/build/CMakeFiles/myEspeak.dir

@@ -1,0 +1,1 @@
+g++   -O3 -std=c++11 -g    CMakeFiles/et.dir/espeakTest.cpp.o  -o et -rdynamic libmyEspeak.so -Wl,-rpath,/home/jin/Q/Done/espeak_test_04_24_2017/build 
